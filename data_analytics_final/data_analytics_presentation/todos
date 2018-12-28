@@ -1,0 +1,11 @@
+# Todos:
+* Use more neurons and more layers
+* Find hidden info in data
+* Bagging, voting, boosting, stacking
+* Feature engineering postal codes
+* sns boxplot for EDA
+* Scroll Jupyter presentation
+* Functions for performance measures
+* Shapley value
+* Shap.summary_plot()
+* More explanation in general (more verbal explanation)!
